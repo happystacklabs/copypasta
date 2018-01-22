@@ -1,7 +1,7 @@
 <img src="github/happystack.png" alt="Happystack" width="150" height="150" />
 
 # CopyPasta
-![Version](https://img.shields.io/badge/Version-0.1.0-green.svg?style=flat)
+![Version](https://img.shields.io/badge/Version-0.1.1-green.svg?style=flat)
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 
