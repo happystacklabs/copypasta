@@ -37,7 +37,7 @@ export const Panel = props => (
               onKeyPress={() => {}}
               onClick={() => { props.onCopy(emoji.symbol); }}
             >
-              {emoji.symbol}
+              <img className="copypasta__img" src={emoji.image} alt={emoji.symbol} />
             </div>
           </li>
         )))}

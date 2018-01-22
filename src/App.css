@@ -102,6 +102,10 @@
     background: transparent;
 }
 
+.copypasta__img {
+  max-width: 30px;
+  max-height: 30px;
+}
 
 .clear {
   clear: both;
